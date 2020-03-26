@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <xmlVersion>1.0</xmlVersion>
+  <appVersion>1.0</appVersion>
+  <downloadApp>http://www.baidu.com</downloadApp>
+  <fileAddress>
+    <name>https://raw.githubusercontent.com/sunshine123321l/Word/master/one.txt</name>
+   
+    
+  </fileAddress>
+
+</root>
